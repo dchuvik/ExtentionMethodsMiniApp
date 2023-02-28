@@ -1,0 +1,15 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\refint\ExtentionMethods.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.genruntimeconfig.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\ExtentionMethodsMiniApp\ExtentionMethods\obj\Debug\net6.0\ref\ExtentionMethods.dll
